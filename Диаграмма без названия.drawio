@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T18:29:53.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="PAidwME9776xxrI_q_BW" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T18:31:43.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="U3AYzPP3GMQ_-aOE8OF9" version="24.0.1" type="github">
   <diagram name="Страница — 1" id="LTTzaxPPcmoizCmSulEp">
     <mxGraphModel dx="3027" dy="1660" grid="0" gridSize="17" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#141414" math="0" shadow="0">
       <root>
@@ -576,7 +576,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FbfgumM9k3iWBc4ifTP3-220" value="Доставка" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#EEEEEE;fontSize=14;labelBackgroundColor=none;fillColor=#56517E;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1062" y="381" width="408.3044327445657" height="360" as="geometry" />
+          <mxGeometry x="1046" y="392" width="408.3044327445657" height="360" as="geometry" />
         </mxCell>
         <mxCell id="FbfgumM9k3iWBc4ifTP3-221" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#EEEEEE;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="FbfgumM9k3iWBc4ifTP3-220" vertex="1">
           <mxGeometry y="30" width="408.3044327445657" height="30" as="geometry" />
@@ -986,7 +986,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FbfgumM9k3iWBc4ifTP3-317" value="Сотрудники" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#EEEEEE;fontSize=14;labelBackgroundColor=none;fillColor=#56517E;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1532" y="696" width="350.9232459435095" height="300" as="geometry" />
+          <mxGeometry x="1541" y="711" width="350.9232459435095" height="300" as="geometry" />
         </mxCell>
         <mxCell id="FbfgumM9k3iWBc4ifTP3-318" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#EEEEEE;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="FbfgumM9k3iWBc4ifTP3-317" vertex="1">
           <mxGeometry y="30" width="350.9232459435095" height="30" as="geometry" />
