@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T15:45:11.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="AfVBiMXi-k8Uhzjoh48I" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-11T16:00:57.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="bXAhdr6RlytSLC4AdAhB" version="24.0.1" type="github">
   <diagram name="Страница — 1" id="LTTzaxPPcmoizCmSulEp">
     <mxGraphModel dx="2994" dy="1620" grid="0" gridSize="17" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
@@ -691,7 +691,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FbfgumM9k3iWBc4ifTP3-257" value="Телефон покупателя" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=14;fillColor=#56517E;labelBackgroundColor=none;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1902" y="950" width="256.86110432942723" height="90.5788959703948" as="geometry" />
+          <mxGeometry x="1870" y="1014" width="256.86110432942723" height="90.5788959703948" as="geometry" />
         </mxCell>
         <mxCell id="FbfgumM9k3iWBc4ifTP3-258" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#EEEEEE;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="FbfgumM9k3iWBc4ifTP3-257" vertex="1">
           <mxGeometry y="30" width="256.86110432942723" height="31" as="geometry" />
@@ -863,8 +863,13 @@
             <mxRectangle width="118" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="UzVemBeTBwc_8Iff4M6m-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FbfgumM9k3iWBc4ifTP3-317">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1681.4444444444443" y="473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FbfgumM9k3iWBc4ifTP3-317" value="Сотрудники" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=#EEEEEE;fontSize=14;labelBackgroundColor=none;fillColor=#56517E;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1522" y="675" width="350.9232459435095" height="300" as="geometry" />
+          <mxGeometry x="1513" y="670" width="350.9232459435095" height="300" as="geometry" />
         </mxCell>
         <mxCell id="FbfgumM9k3iWBc4ifTP3-318" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#EEEEEE;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="FbfgumM9k3iWBc4ifTP3-317" vertex="1">
           <mxGeometry y="30" width="350.9232459435095" height="30" as="geometry" />
@@ -1029,7 +1034,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FbfgumM9k3iWBc4ifTP3-390" value="Должности" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontSize=14;fillColor=#56517E;labelBackgroundColor=none;strokeColor=#EEEEEE;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1942" y="721" width="299.5335286458335" height="120" as="geometry" />
+          <mxGeometry x="1926" y="783" width="299.5335286458335" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FbfgumM9k3iWBc4ifTP3-391" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#EEEEEE;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="FbfgumM9k3iWBc4ifTP3-390" vertex="1">
           <mxGeometry y="30" width="299.5335286458335" height="30" as="geometry" />
