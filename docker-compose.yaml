@@ -1,0 +1,26 @@
+version: '3.5'
+
+name: "my_infrastructure"
+
+services:
+  postgres:
+    image: postgres:14.3-alpine
+    container_name: my_postrgres_container
+    restart: unless-stopped
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./pgdata:/var/lib/postgresql/data
+      # - ./init:/docker-entrypoint-initdb.d
+      - ./migrations:/migrations
+      - ./init:/init
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      USERS_NUMBER: ${USERS_NUMBER}
+
+
+
+
+
